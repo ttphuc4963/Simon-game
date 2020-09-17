@@ -1,2 +1,2 @@
-# Simon-game-JQuey
+# Simon-game-JQuery
 Simon game use JQuery
